@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: SlateGray;
+  color: HoneyDew;
+  font-size: 2vw;
+  letter-spacing: -0.2px;
+  word-spacing: 0.2em;
+  line-height: 1.7;
+  text-align: left;
+  word-break: keep-all;
+  padding: 24px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-align: center;
+  color: RebeccaPurple;
+}
+
+h2 {
+  border-bottom: 2px solid turquoise;
+  color: turquoise;
+  padding-bottom: 5px;
+  margin-bottom: 30px;
+}
+
+.definition {
+  color: blue;
+}
+
+ul li {
+  color: tomato;
+}
+
+strong {
+  color: MediumVioletRed;
+}
+
+a {
+  color: MediumVioletRed;
+}
+
+a:hover {
+  color: blue;
+}
